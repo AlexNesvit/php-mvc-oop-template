@@ -1,0 +1,74 @@
+# Ignore Mac system files
+.DS_Store
+
+# Ignore node_modules directory
+node_modules/
+
+# Ignore Composer dependencies
+/vendor/
+
+# Ignore environment variables
+.env
+
+# Ignore VSCode settings
+.vscode/
+
+# Ignore PHPStorm settings
+.idea/
+
+# Ignore Composer lock file
+composer.lock
+
+# Ignore log files and databases
+*.log
+*.sql
+*.sqlite
+
+# Ignore compiled classes
+/vendor/
+*.phpunit.result.cache
+.phpunit.cache
+
+# Ignore cache and temporary files
+/cache/
+tmp/
+
+# Ignore PHPUnit test results
+phpunit.xml
+phpunit.xml.dist
+
+# Ignore coverage reports
+coverage/
+
+# Ignore IDE config files
+.idea/
+*.iml
+
+# Ignore various IDE files
+nbproject/
+*.sublime-project
+*.sublime-workspace
+
+# Ignore SFTP configuration file
+*.sftp-config.json
+
+# Ignore compiled CSS and JS
+/public/css/
+public/js/
+
+# Ignore any local config files
+config/database.php
+
+# Ignore build artifacts
+/build/
+dist/
+
+# Ignore other OS generated files
+Thumbs.db
+ehthumbs.db
+
+# Ignore other application specific files
+/.env
+/.env.local
+/.env.*.local
+.envrc
