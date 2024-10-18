@@ -15,7 +15,7 @@ Nous avons commencé par organiser la structure du projet selon le modèle MVC (
 - **Contrôleur (Controller) :** Gère la logique métier et la coordination entre le modèle et la vue.
 
 #### Structure du projet :
-
+![alt text](<Снимок экрана 2024-10-18 в 12.31.52.png>)
 /interview_prep
 ├── /app
 │   ├── /controllers    Contient les contrôleurs
