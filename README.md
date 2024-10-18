@@ -18,19 +18,19 @@ Nous avons commencé par organiser la structure du projet selon le modèle MVC (
 
 /interview_prep
 ├── /app
-│   ├── /controllers   # Contient les contrôleurs
-│   ├── /models        # Contient les modèles de données
-│   ├── /core          # Contient les classes principales de l’application
+│   ├── /controllers    Contient les contrôleurs
+│   ├── /models         Contient les modèles de données
+│   ├── /core           Contient les classes principales de l’application
 ├── /public
-│   └── index.php      # Point d’entrée principal de l’application
+│   └── index.php       Point d’entrée principal de l’application
 ├── /config
-│   └── config.php     # Fichiers de configuration (connexion à la base de données)
-├── /views             # Contient les vues (templates HTML)
-├── /lang              # Contient les fichiers de traduction pour chaque langue
+│   └── config.php      Fichiers de configuration (connexion à la base de données)
+├── /views              Contient les vues (templates HTML)
+├── /lang               Contient les fichiers de traduction pour chaque langue
 ├── /assets
-│   ├── /css           # Feuilles de style CSS
-│   ├── /js            # Scripts JavaScript
-│   └── /images        # Images utilisées dans le site
+│   ├── /css            Feuilles de style CSS
+│   ├── /js             Scripts JavaScript
+│   └── /images         Images utilisées dans le site
 
 ### 2. Connexion à la base de données
 
