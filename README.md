@@ -1,7 +1,6 @@
-# 🟣 Interview Prep PHP + Laravel 🟣 
-**[Описание на русском языке](README_ru.md)**
+# 🟣 Interview Prep PHP + Laravel 🟣 **[Описание на русском языке](README_ru.md)**
 
-Plateforme de préparation aux entretiens PHP.
+## Plateforme de préparation aux entretiens PHP.
 
 ## Description
 ## Étapes de développement et explications
