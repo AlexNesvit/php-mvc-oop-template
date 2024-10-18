@@ -15,22 +15,8 @@ Nous avons commencé par organiser la structure du projet selon le modèle MVC (
 - **Contrôleur (Controller) :** Gère la logique métier et la coordination entre le modèle et la vue.
 
 #### Structure du projet :
-![alt text](<Снимок экрана 2024-10-18 в 12.31.52.png>)
-/interview_prep
-├── /app
-│   ├── /controllers    Contient les contrôleurs
-│   ├── /models         Contient les modèles de données
-│   ├── /core           Contient les classes principales de l’application
-├── /public
-│   └── index.php       Point d’entrée principal de l’application
-├── /config
-│   └── config.php      Fichiers de configuration (connexion à la base de données)
-├── /views              Contient les vues (templates HTML)
-├── /lang               Contient les fichiers de traduction pour chaque langue
-├── /assets
-│   ├── /css            Feuilles de style CSS
-│   ├── /js             Scripts JavaScript
-│   └── /images         Images utilisées dans le site
+
+![alt text](<structure.png>)
 
 ### 2. Connexion à la base de données
 
