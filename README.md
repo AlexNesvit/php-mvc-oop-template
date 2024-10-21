@@ -5,6 +5,7 @@
 ## Plateforme de préparation aux entretiens PHP
 
 ## Description
+
 ## Étapes de développement et explications
 
 ### 1. Création de la structure du projet
@@ -17,7 +18,7 @@ Nous avons commencé par organiser la structure du projet selon le modèle MVC (
 
 #### Structure du projet :
 
-![alt text](<structure.png>)
+![alt text](<assets/images/structure.png>)
 
 ### 2. Connexion à la base de données
 
