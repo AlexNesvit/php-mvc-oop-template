@@ -9,6 +9,7 @@ $db_pass = 'root';
     try {
         $db = new PDO("mysql:host=$db_host;dbname=$db_name;charset=utf8", $db_user, $db_pass);
         $db->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+        echo ('Connection à la base de données est ok' . '<br>');
     } catch (PDOException $e) {
         die('Erreur de connection : ' . $e->getMessage());
 }
