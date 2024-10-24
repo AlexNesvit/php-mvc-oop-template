@@ -212,10 +212,3 @@ class App
 Лицензия
 
 Проект распространяется под лицензией MIT.
-
----
-
-☕ Support Me
-<p align="center">
-<a href="https://www.buymeacoffee.com/alexnesvit"><img alt="Coffee" src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a></align=>
-</p>
