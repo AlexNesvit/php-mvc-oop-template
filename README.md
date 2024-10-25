@@ -159,7 +159,7 @@ Les contrôleurs géreront la logique métier et la communication entre les vues
 	3.	Implémentation de la fonctionnalité multilingue complète :
 La plateforme permettra de basculer entre le français et le russe via une interface utilisateur.
 
-Auteur
+Auteur:
 
 	•	Alex NESVIT — Développeur du projet.
 
