@@ -27,7 +27,7 @@ Nous avons utilisé PHP et PDO pour établir une connexion sécurisée avec la b
 #### Étapes pour la création de la base de données :
 
 1. Ouvrir **PHPMyAdmin** via l'interface MAMP.
-2. Créer une base de données sous le nom `php_laravel_proprep`.
+2. Créer une base de données sous le nom `php_mvc_oop_template`.
 3. Créer les tables nécessaires à l'application (utilisateurs, questions, leçons, etc.).
 
 #### Code de connexion à la base de données :
@@ -36,7 +36,7 @@ Nous avons utilisé PHP et PDO pour établir une connexion sécurisée avec la b
 <?php
 // Informations de connexion à la base de données
 $db_host = 'localhost';
-$db_name = 'php_laravel_proprep';
+$db_name = 'php_mvc_oop_template';
 $db_user = 'root';
 $db_pass = 'root';
 

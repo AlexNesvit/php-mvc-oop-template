@@ -1,7 +1,7 @@
 <?php
 // Informations de connexion à la base de données
 $db_host = 'localhost';
-$db_name = 'php_laravel_proprep';
+$db_name = 'php_mvc_oop_template';
 $db_user = 'root';
 $db_pass = 'root';
 
