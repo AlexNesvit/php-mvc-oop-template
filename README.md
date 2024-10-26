@@ -1,8 +1,8 @@
-# 🟣 Interview Prep PHP + Laravel 🟣 
+# 🟣 PHP MVC OOP Template Start 🟣 
 
 **[Описание на русском языке](README_ru.md)**
 
-## Plateforme de préparation aux entretiens PHP
+## PHP MVC OOP Template Start
 
 ## Description
 
